@@ -1,7 +1,7 @@
 {
   "id": "bitd-babele-it",
   "title": "Blades in the Dark - Italian",
-  "description": "This module provide the italian translation for blades in the dark. It requirese the babele module.",
+  "description": "This module provide the italian translation for blades in the dark. It require the babele module.",
   "authors": [
     {
       "name": "Arcadio21",
