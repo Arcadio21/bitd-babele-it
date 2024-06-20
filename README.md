@@ -1,14 +1,14 @@
 # Blades in the Dark - Italiano
 
 Modulo di traduzione per  [Blades in the Dark System](https://github.com/megastruktur/foundryvtt-blades-in-the-dark) per  Foundry VTT.
-supporta [alternativen Charakterbögen von justinross](https://github.com/justinross/foundry-bitd-alternate-sheets).
+supporta [La scheda alternativa di justinross](https://github.com/justinross/foundry-bitd-alternate-sheets).
 
 ## Istruzioni
-1)installa il sistema di blades in the dark
-2)installa [Babele](https://foundryvtt.com/packages/babele)
-3)installa questo modulo
-4)attiva i moduli nel pannello di controllo
-5)cambia lingua in italiano nel pannello di controllo.
+- installa il sistema di blades in the dark
+- installa [Babele](https://foundryvtt.com/packages/babele)
+- installa questo modulo
+- attiva i moduli nel pannello di controllo
+- cambia lingua in italiano nel pannello di controllo.
 
 
 ## Credits/License   
