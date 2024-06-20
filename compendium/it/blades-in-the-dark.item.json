@@ -1,0 +1,274 @@
+{
+  "label": "Oggetti",
+  "mapping": {
+    "description": "system.description",
+    "class": "system.class"
+  },
+  "entries": {
+    "(C) Fine hand weapon": {
+      "name": "(T) Arma a una mano eccellente",
+      "description": "un'arma a una mano di tua scelta di ottima fattura.",
+      "class": "Tagliagole"
+    },
+    "(C) Fine heavy weapon": {
+      "name": "(T) Arma Pesante eccellente",
+      "description": "un'arma a due mani di tua scelta di ottima fattura.",
+      "class": "Tagliagole"
+    },
+    "(C) Manacles & chain": {
+      "name": "(T) Manette e catene",
+      "description": "un paio di manette con pesanti catene adatte a bloccare un prigioniero.",
+      "class": "Tagliagole"
+    },
+    "(C) Rage essence vial": {
+      "name": "(T) Fiala d'Essenza d'Ira",
+      "description": "una dose singola che aumenta significativamente la forza,la resistenza al dolore e l'aggressività bestiale in chi la assume per qualche minuto",
+      "class": "Tagliagole"
+    },
+    "(C) Scary weapon or tool": {
+      "name": "(T) Arma o Strumento intimidatorio",
+      "description": " un'arma o uno strumento dall'aspetto spaventoso. Questo oggetto ti garantisce un efficacia maggiore per intimidire, non un danno maggiore in combattimento",
+      "class": "Tagliagole"
+    },
+    "(H) A trained hunting pet": {
+      "name": "(SE) Un Animale da Caccia Addestrato",
+      "description": "il tuo compagno animale obbedisce ai tuoi comandi e anticipa le tue azioni. Cricca (Cacciatore Esperto)",
+      "class": "Segugio"
+    },
+    "(H) Electroplasmic ammunition": {
+      "name": "(SE) Munizioni Elettroplasmatiche",
+      "description": "una bandoliera di munizioni elettroplasmatiche, particolarmente efficaci contro gli spiriti, ma meno efficaci contro i bersagli solidi.",
+      "class": "Segugio"
+    },
+    "(H) Fine long rifle": {
+      "name": "(SE) Fucile a Canna Lunga eccellente",
+      "description": "un fucile da caccia magistralmente prodotto. Mortale a lunga distanza, poco maneggevole a distanza ravvicinata.",
+      "class": "Segugio"
+    },
+    "(H) Fine pair of pistols": {
+      "name": "(SE) Un paio di Pistole eccellenti",
+      "description": "un paio di pistole gemelle, costruite per una maggior accuratezza, con una doppia canna che permette due colpi prima della ricarica.",
+      "class": "Segugio"
+    },
+    "(H) Spyglass": {
+      "name": "(SE) Cannocchiale",
+      "description": " un tubo di ottone con lenti che permette di vedere a grandi distanze. Telescopico. Può essere montato su un fucile.",
+      "class": "Segugio"
+    },
+    "(Le) Bandolier": {
+      "name": "(SA) Bandoliera",
+      "description": "una cinghia avvolta attorno al corpo con speciali tasche imbottite per contenere tre agenti alchemici o esplosivi fulminotecnici. Quando utilizzi una sostanza alchemica o una bomba da una  bandoliera scegline una dalla lista a destra (o da una delle tue formule personalizzate). Vai a pagina 228 per altri agenti alchemici e bombe. Durante il downtime ricarichi automaticamente la tua bandoliera purché tu abbia ragionevolmente accesso a un fornitore o a un laboratorio.",
+      "class": "Sanguisuga"
+    },
+    "(Le) Blowgun & darts, syringes": {
+      "name": "(SA) Cerbottana e Dardi, Siringhe",
+      "description": "un piccolo tubo e dardi che possono essere riempiti con fiale di sostanze alchemiche. Siringhe vuote.",
+      "class": "Sanguisuga"
+    },
+    "(Le) Fine tinkering tools": {
+      "name": "(SA) Strumenti di Precisione eccellenti",
+      "description": "un set di attrezzi per la meccanica di precisione di fine fattura. Una lente da gioielliere. Strumenti di misurazione.",
+      "class": "Sanguisuga"
+    },
+    "(Le) Fine wrecking tools": {
+      "name": "(SA) Strumenti da Guastatore eccellenti:",
+      "description": "una raccolta di strumenti specifici per sabotaggio e distruzione. Un piccolo e potente trapano. Un mazzuolo e cunei di acciaio. Un palanchino. Una batteria elettroplasmatica, pinze e fili. Fiale di acido. Un cannello per fulgor-torcia con serbatoio",
+      "class": "Sanguisuga"
+    },
+    "(Le) Gadgets": {
+      "name": "(SA) Gadgets",
+      "description": "puoi creare dei gadget durante il downtime Armeggiando con strumenti e materiali. Vedi Gadget, pagina 229. Tieni conto del carico di ogni gadget che impieghi durante un'operazione",
+      "class": "Sanguisuga"
+    },
+    "(Lu) Dark-sight goggles": {
+      "name": "(N) Visore Notturno",
+      "description": "uno strumento arcano che permette a chi lo indossa di vedere nell'oscurità totale come fosse ben illuminata.",
+      "class": "Nebbia"
+    },
+    "(Lu) Fine lockpicks": {
+      "name": "(N) Grimaldelli eccellenti",
+      "description": "una serie di strumenti di ottima fattura per disarmare e scassinare serrature. ",
+      "class": "Nebbia"
+    },
+    "(Lu) Fine shadow cloak": {
+      "name": "(N) Mantello d'Ombra eccellente",
+      "description": "un mantello con cappuccio fatto di rara seta ombrosa Iruviana che si mescola all'oscurità circostante. Questo oggetto migliora il tuo grado di efficacia quando ti muovi furtivamente",
+      "class": "Nebbia"
+    },
+    "(Lu) Light climbing gear": {
+      "name": "(N) Attrezzi da Scalata leggeri:",
+      "description": "un corredo di strumenti da scalata finemente lavorati per essere meno ingombranti di un normale corredo",
+      "class": "Nebbia"
+    },
+    "(Lu) Silence potion vial": {
+      "name": "(N) Fiala di Pozione del Silenzio",
+      "description": "una fiala di liquido ambrato che annulla per parecchi secondi qualsiasi suono entro 10 passi da chi l'ha assunta.",
+      "class": "Nebbia"
+    },
+    "(Sl) A cane-sword": {
+      "name": "(G) Un Bastone Animato",
+      "description": "una sottile spada con il fodero camuffato da bastone da passeggio. Il mascheramento può ingannare un'ispezione superficiale.",
+      "class": "Guanto"
+    },
+    "(Sl) Fine clothes & jewelry": {
+      "name": "(G) Abiti e Gioielli eccellenti",
+      "description": "un completo di vestiario che appare di così fine fattura da farti passare per un nobile facoltoso. [0 Carico] Se porti con te questo equipaggiamento come secondo capo di vestiario con cui cambiarti, contalo come Carico 2.",
+      "class": "Guanto"
+    },
+    "(Sl) Fine disguise kit": {
+      "name": "(G) Kit di Travestimento eccellente",
+      "description": "un set di trucco teatrale composto da un'impressionante serie di strumenti per ingannare l'occhio. L'eccellente qualità di questo strumento può aumentare l'efficacia delle tue azioni di raggiro, se utilizzato",
+      "class": "Guanto"
+    },
+    "(Sl) Fine loaded dice, trick cards": {
+      "name": "(G) Carte e Dadi Truccati eccellenti",
+      "description": "strumenti per il gioco d'azzardo sottilmente alterati per favorire particolari risultati. L'eccellente qualità di questo strumento può aumentare l'efficacia delle tue azioni di raggiro, se utilizzato",
+      "class": "Guanto"
+    },
+    "(Sl) Trance powder": {
+      "name": "(G) Polvere Divinatoria",
+      "description": "una dose di una droga diffusa, che causa uno stato mentale alterato. La vittima di questa polvere non è pienamente cosciente, ma piuttosto persa in un stato mentale calmo e suggestionabile molto simile all'ipnosi. ",
+      "class": "Guanto"
+    },
+    "(Sp) Blueprints": {
+      "name": "(R) Planimetrie",
+      "description": "una cartella di piani cittadini e disegni architetturali. Sentiti libero di specificare quale particolare disegno stai portando con te quando scegli questo oggetto.",
+      "class": "Ragno"
+    },
+    "(Sp) Concealed palm pistol": {
+      "name": "(R) Pistola da Palmo nascosta",
+      "description": "una piccola arma da fuoco con una carica debole, facilmente occultabile in una manica o panciotto. La pistola ha una gittata estremamente limitata, solo un metro o due. È veramente difficile trovertela addosso, anche con una perquisizione. ",
+      "class": "Ragno"
+    },
+    "(Sp) Fine bottle of whiskey": {
+      "name": "(R) Bottiglia di Whisky eccellente",
+      "description": "un raro distillato direttamente dalla tua collezione personale, potente sia nel tasso alcolemico sia nella sua capacità di impressionare. ",
+      "class": "Ragno"
+    },
+    "(Sp) Fine cover identity": {
+      "name": "(R) Identità Segreta eccellente",
+      "description": " documenti, storie di copertura, voci di corridoio e relazioni fasulle sufficienti per passare per un'altra persona",
+      "class": "Ragno"
+    },
+    "(Sp) Vial of slumber essence": {
+      "name": "(R) Fiala di Essenza Morfeica",
+      "description": "una dose di essenza morfeica sufficiente ad addormentare qualcuno per un'ora. Il sonno della vittima non è soprannaturale, ma è profondo - può essere ridestata con qualche sforzo.",
+      "class": "Ragno"
+    },
+    "(W) Demonbane charm": {
+      "name": "(SU) Amuleto Anatema dei Demoni",
+      "description": "un ninnolo arcano che i demoni preferiscono evitare. ",
+      "class": "Sussurro"
+    },
+    "(W) Electroplasm vials": {
+      "name": "(SU) Fiale di Elettroplasma",
+      "description": "",
+      "class": "Sussurro"
+    },
+    "(W) Fine lightning hook": {
+      "name": "(SU) Gancio Elettrificato eccellente",
+      "description": "un lungo palo da impugnare a due mani con un laccio di filo elettrico collegato a un capacitatore elettroplasmatico all'estremità, adatto per afferrare gli spiriti e trascinarli dentro una bottiglia spettrale. Questo gancio personalizzato si ripiega in una forma compatta, quindi riducendo il suo carico a 1 seppur richieda due mani per l'utilizzo. ",
+      "class": "Sussurro"
+    },
+    "(W) Fine spirit mask": {
+      "name": "(SU) Maschera Spettrale eccellente",
+      "description": "uno strumento arcano che permette a un utilizzatore addestrato di vedere le energie soprannaturali in grande dettaglio. Garantisce inoltre un certo livello di protezione contro la possessione spettrale. Ogni maschera è unica. Come è fatta la tua? Cosa la rende così bizzarra e disturbante?",
+      "class": "Sussurro"
+    },
+    "(W) Ghost key": {
+      "name": "(SU) Chiave Spettrale",
+      "description": "uno strumento arcano che può aprire le porte spettrali. Intrappolato nel campo spettrale persiste l'eco dell'intera città tra le ere. Talvolta si può trovare una porta verso quel luogo.",
+      "class": "Sussurro"
+    },
+    "(W) Spirit bottles (2)": {
+      "name": "(SU) Bottiglie Spettrali (2)",
+      "description": "uno strumento arcano utilizzato per intrappolare uno spirito. Si presenta come un cilindro fatto di metallo e cristalli, grande come un filone di pane. ",
+      "class": "Sussurro"
+    },
+    "+ Heavy": {
+      "name": "+ Pesante",
+      "description": "l'aggiunta di cotta di maglia, placche di metallo, elmo di metallo..",
+      "class": ""
+    },
+    "A 2nd Pistol": {
+      "name": "Una seconda pistola",
+      "description": "un'arma da fuoco pesante, a colpo singolo e avancarica. Devastante entro 20 passi, lenta da ricaricare.",
+      "class": ""
+    },
+    "A Blade or Two": {
+      "name": "Una lama o due",
+      "description": "magari equipaggi un semplice coltello da combattimento. O due spade ricurve. O uno stocco e uno stiletto. O una pesante mannaia da macellaio",
+      "class": ""
+    },
+    "A Large Weapon": {
+      "name": "Arma Pesante",
+      "description": "un'arma pensata per essere maneggiata a due mani. Un'ascia da battaglia, uno spadone, un martello da guerra, una picca. Un fucile da caccia. Un vecchio fucile. Un arco o una balestra",
+      "class": ""
+    },
+    "A Pistol": {
+      "name": "Una pistola",
+      "description": "un'arma da fuoco pesante, a colpo singolo e avancarica. Devastante entro 20 passi, lenta da ricaricare.",
+      "class": ""
+    },
+    "An Unusual Weapon": {
+      "name": "Arma Insolita",
+      "description": "un attrezzo o qualcosa di strano usato come arma. Una frusta, un flagello, una accetta, una pala, una catena,un ventaglio affilato, stivali con la punta di ferro.",
+      "class": ""
+    },
+    "Arcane Implements": {
+      "name": "Reagenti Arcani",
+      "description": "una fiala di argentovivo. Una sacca di sale nero. Un'ancora spettrale nella forma di una piccola pietra. Una bottiglia spettrale. Una fiala di elettroplasma pensata per rompersi e schizzare all'impatto",
+      "class": ""
+    },
+    "Armor": {
+      "name": "Armatura",
+      "description": "una spessa tunica di cuoio, più guanti e stivali rinforzati. ",
+      "class": ""
+    },
+    "Burglary Gear": {
+      "name": "Attrezzi da Scasso",
+      "description": "una scelta di grimaldelli. Un piccolo palanchino. Fiale di olio per silenziare cigolii sospetti. Una bobina di filo e ami da pesca. Una piccola sacca di sabbia fine.",
+      "class": ""
+    },
+    "Climbing Gear": {
+      "name": "Attrezzi da Scalata",
+      "description": "una grande (e/o piccola) matassa di corda. Rampini. Una piccola sacca di polvere di gesso. Una imbracatura da scalata con passanti e anelli metallici. Chiodi di ferro e una piccola mazza",
+      "class": ""
+    },
+    "Demolition Tools": {
+      "name": "Strumenti da Demolizione",
+      "description": "una mazza da demolizione e puntelli di ferro. Trapano pesante. Piede di porco",
+      "class": ""
+    },
+    "Documents": {
+      "name": "Documenti",
+      "description": "una collezione di volumi sottili su una varietà di argomenti, inclusi un registro della nobiltà, comandanti della Guardia Cittadina e altri cittadini prominenti. Fogli vuoti, una fiala di inchiostro, un pennino. Un buon numero di mappe interessanti. ",
+      "class": ""
+    },
+    "Lantern": {
+      "name": "Lanterna",
+      "description": "una semplice lanterna a olio, una raffinata lampada elettroplasmatica, o un'altra fonte di luce.",
+      "class": ""
+    },
+    "Spiritbane Charm": {
+      "name": "Amuleto Anatema degli Spiriti",
+      "description": "un piccolo gingillo arcano che gli spettri preferiscono evitare.",
+      "class": ""
+    },
+    "Subterfuge Supplies": {
+      "name": "Materiali per il Sotterfugio:",
+      "description": "un kit di trucco teatrale. Una selezione di documenti in bianco, pronti per la mano del falsario. Bigiotteria. Un mantello double-face e un cappello distinto. Un tesserino di riconoscimento falso.",
+      "class": ""
+    },
+    "Throwing Knives": {
+      "name": "Coltelli da Lancio",
+      "description": "sei lame piccole e leggere.",
+      "class": ""
+    },
+    "Tinkering Tools": {
+      "name": "Strumenti di Precisione:",
+      "description": "un assortimento per la meccanica di precisione, come lente di ingrandimento, pinzette, un piccolo martello, pinze, cacciavite, ecc",
+      "class": ""
+    }
+  }
+}

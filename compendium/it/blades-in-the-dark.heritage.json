@@ -1,0 +1,32 @@
+{
+  "label": "Retaggi",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Akoros": {
+      "name": "Akoros",
+      "description": "Akoros è la terra più vasta e industrializzata dell'Imperium e sede della città capitale e di Duskwall stessa. Gli Akorosiani sono noti per essere una mescolanza di culture che sono cresciute insieme in prossimità, similmente all'Europa."
+    },
+    "Iruvia": {
+      "name": "Iruvia",
+      "description": "Una popolazione considerata \"straniera\" dalla gente di Duskwall è quella di Iruvia,un regno ricco e potente nel deserto del sud. È un'altra terra di culture diverse come l'antica Persia, l'Egitto o l'India"
+    },
+    "Severos": {
+      "name": "Severos",
+      "description": "Se provieni da un luogo considerato \"selvaggio\" dal resto dell'impero, probabilmente sei di Severos. Al di là di qualche insediamento Imperiale, la maggior parte dei Severosiani vive in tribù nomadi equestri sparse attraverso le maledette Terre Morte, sopravvivendo tra le rovine delle fortezze arcane che ancora respingono gli spiriti."
+    },
+    "Skovlan": {
+      "name": "Skovlan",
+      "description": " Gli emarginati sono gli Skovlanesi, provenienti da un regno insulare al di là del mare. Skovlan è stato l'ultimo regno a venire assimilato dal dominio Imperiale, nel corso della Guerra dell'Unità durata trentasei anni (e conclusa solo pochi anni fa). Molti rifugiati hanno perso la casa e il lavoro nella devastazione della guerra e arrivano a Doskvol in cerca di nuove opportunità."
+    },
+    "The Dagger Isles": {
+      "name": "Isole del Pugnale",
+      "description": "Se sei un viandante senza radici probabilmente vieni dalle Isole del Pugnale. Lì spesso si cresce sulle navi e si viaggia molto prima di stabilirsi definitivamente. Le persone originarie delle isole sono note come corsari e mercanti che vivono senza le barriere folgoranti, gestendo gli spettri in altro modo."
+    },
+    "Tycheros": {
+      "name": "Tycheros",
+      "description": "Se sei considerato strano, bizzarro, probabilmente sei di Tycheros. È un luogo semi-mitologico, distante, al di là del Mare Vuoto. Tutti dicono che chi proviene da lì sia mezzo demone. Se scegli un retaggio Tycherosiano dovete anche segnare un tratto demoniaco (occhi neri animaleschi, piume al posto dei capelli, ecc.) che contraddistingue il tuo personaggio."
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "label": "Reputazione della banda",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Alluring": {
+      "name": "Affascinante",
+      "description": ""
+    },
+    "Ambitious": {
+      "name": "Ambiziosi",
+      "description": ""
+    },
+    "Brutal": {
+      "name": "Brutali",
+      "description": ""
+    },
+    "Cruel": {
+      "name": "Crudeli",
+      "description": ""
+    },
+    "Daring": {
+      "name": "Audaci",
+      "description": ""
+    },
+    "Ferocious": {
+      "name": "Feroce",
+      "description": ""
+    },
+    "Honorable": {
+      "name": "Onorevoli",
+      "description": ""
+    },
+    "Monstrous": {
+      "name": "Mostruosa",
+      "description": ""
+    },
+    "Professional": {
+      "name": "Professionisti",
+      "description": ""
+    },
+    "Radiant": {
+      "name": "Radiosa",
+      "description": ""
+    },
+    "Savvy": {
+      "name": "Esperti",
+      "description": ""
+    },
+    "Serene": {
+      "name": "Serena",
+      "description": ""
+    },
+    "Sinister": {
+      "name": "Sinistra",
+      "description": ""
+    },
+    "Strange": {
+      "name": "Strani",
+      "description": ""
+    },
+    "Subtle": {
+      "name": "Discreti",
+      "description": ""
+    },
+    "Transcendent": {
+      "name": "Trascendente",
+      "description": ""
+    }
+  }
+}

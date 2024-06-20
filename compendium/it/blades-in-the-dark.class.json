@@ -1,0 +1,59 @@
+{
+  "label": "Classi",
+  "mapping": {
+    "description": "system.description",
+    "experience_clues": "system.experience_clues"
+  },
+  "entries": {
+    "Cutter": {
+      "name": "Tagliagole",
+      "description": "Un combattente pericoloso e intimidatorio",
+      "experience_clues": "Affronti una sfida con violenza o coercizione"
+    },
+    "Ghost": {
+      "name": "Fantasma",
+      "description": "Uno spirito incorporeo, assetato di vendetta",
+      "experience_clues": "Infliggi la tua vendetta su quelli che ritieni colpevoli - Esprimi la tua rabbia o indignazione,"
+    },
+    "Hound": {
+      "name": "Segugio",
+      "description": "Un inseguitore e un cecchino letale",
+      "experience_clues": "Affronti una sfida con appostamento e violenza."
+    },
+    "Hull": {
+      "name": "Costrutto",
+      "description": "Uno spirito che anima una scocca fulminotecnica.",
+      "experience_clues": "Adempi alle tue funzioni nonostante difficoltà o pericoli.- Sopprimi o ignori le tue precedenti qualità umane. (sovrascrive i normali inneschi)."
+    },
+    "Leech": {
+      "name": "Sanguisiga",
+      "description": "Un tecnico e guastatore",
+      "experience_clues": "Hai affrontato una sfida con competenze tecniche o caos."
+    },
+    "Lurk": {
+      "name": "Nebbia",
+      "description": "Un furtivo infiltratore e scassinatore",
+      "experience_clues": "Hai affrontato una sfida con furtività o evasività."
+    },
+    "Slide": {
+      "name": "Guanto",
+      "description": "Una spia e subdolo manipolatore",
+      "experience_clues": "Hai indirizzato una sfida con l'inganno o l'influenza."
+    },
+    "Spider": {
+      "name": "Ragno",
+      "description": "Un subdolo pianificatore",
+      "experience_clues": "Hai affrontato una sfida con calcolo o cospirazione."
+    },
+    "Vampire": {
+      "name": "Vampiro",
+      "description": "Uno spirito che anima un corpo non-morto",
+      "experience_clues": "Mostri il tuo predominio, o uccidi senza pietà. (sovrascrive i normali inneschi)."
+    },
+    "Whisper": {
+      "name": "Sussurro",
+      "description": "Un adepto e tramite arcano",
+      "experience_clues": "Hai affrontato una sfida con la conoscenza o metodi arcani."
+    }
+  }
+}

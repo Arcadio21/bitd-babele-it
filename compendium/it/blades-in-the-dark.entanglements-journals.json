@@ -1,0 +1,113 @@
+{
+  "label": "Diaro - coinvolgimenti",
+  "entries": {
+    "Arrest": {
+      "name": "Arresto",
+      "pages": {
+        "Arrest": {
+          "name": "Arresto",
+          "text": "<p>Un Ispettore presenta un fascicolo di prove ai magistrati per cominciare una persecuzione della vostra banda. Le Giubbe Blu mandano una pattuglia ad arrestarvi (una squadra di <strong>scala</strong> almeno pari al vostro <strong>Livello Ricercato</strong>). Li potete corrompere con <strong>Denaro</strong> pari al vostro <strong>Livello Ricercato</strong> +3, consegnare qualcuno (in questo caso azzerate il vostro <strong>Sospetto</strong>) oppure provare a evadere la cattura.</p>\n<p><em>Un manganello picchia sugli scuri della finestra. “Forza! Uscite e finiamola senza troppo casino!” Sembra la voce del Sergente Klellan. Quando sbirciate fuori vedete una squadra di una ventina di Giubbe Blu, preparate allo scontro. Klellan bisbiglia in modo che solo voi lo possiate sentire: “Forse mi hanno dato l’indirizzo sbagliato?” Si schiarisce la gola e aspetta che compaia del denaro.</em></p>"
+        }
+      }
+    },
+    "Cooperation": {
+      "name": "Cooperazione",
+      "pages": {
+        "Cooperation": {
+          "name": "Cooperazione",
+          "text": "<p>Una fazione con cui avete <strong>status +3</strong> vi chiede un favore. Accettate di farlo, o rinunciate a 1 Rep per ogni Rango della fazione alleata, oppure perdete <strong>1 status</strong> con la fazione. Se non avete <strong>+3 status</strong> con nessuna fazione, per ora evitate il coinvolgimento.</p>"
+        }
+      }
+    },
+    "Demonic Notice": {
+      "name": "Interesse demoniaco",
+      "pages": {
+        "Demonic Notice": {
+          "name": "Interesse demoniaco",
+          "text": "<p>Un demone approccia la banda con un’offerta oscura. Accettate il patto, nascondetevi finché non perde interesse (perdete 3 Rep), o affrontate il problema in altro modo.</p>"
+        }
+      }
+    },
+    "Flipped": {
+      "name": "Voltagabbana",
+      "pages": {
+        "Flipped": {
+          "name": "Voltagabbana",
+          "text": "<p>Uno dei rivali dei PG fa in modo che un vostro contatto, patrono o gruppo di clienti cambi fedeltà a causa del <strong>Sospetto</strong> che aleggia su di voi. Ora sono leali a un’altra fazione.</p>\n<p><em>Avete sentito nelle strade che ora Laroze sta lavorando per le Roncole. L’hanno visto parlare con Flint l’altro giorno... è lui il bastardo che ci sta dietro. Rimuovete Laroze dai contatti finché non risolvete la faccenda</p></em></p>"
+        }
+      }
+    },
+    "Gang Trouble": {
+      "name": "Problemi con la gang",
+      "pages": {
+        "Gang Trouble": {
+          "name": "Problemi con la gang",
+          "text": "<p>na delle vostre gang (o altri della cricca) crea guai a causa di uno o più dei loro difetti. Potreste perderci la faccia (perdete <strong>Rep</strong> pari al vostro Rango +1), fare un esempio di uno dei membri della gang o affrontare la vendetta delle vittime.</p>\n<p><em>ADopo che i PG hanno avuto successo con il loro assalto e hanno spazzato via le Fusciacche Rosse, la loro gang feroce si spinge troppo oltre. Iniziano ad aggredire qualunque Iruviano trovino in giro per Crow’s Foot e, durante una rissa, un cittadino viene orribilmente mutilato. Tutti ne parlano. È così che i Salassatori vogliono guidare la loro banda? Arcy decide di affrontare la cosa facendo un esempio di uno dei membri della gang. Li porta nella taverna dove è avvenuto l’incidente e fracassa la faccia del colpevole sul bancone del bar, lasciandolo con un’orribile cicatrice. </em></p>\n<p><em>l GM pensa che questo trattamento richieda un avanzamento nell’orologio creato precedentemente nella sessione, quando Arcy aveva già trattato duramente la gang. L’orologio si chiama “La gang si ribella”. Era già a tre sezioni su quattro, quindi ora è completo! Sembra che il trattamento riservato da Arcy alla gang feroce stia per ritorcerlesi contro</em></p>"
+        }
+      }
+    },
+    "Interrogation": {
+      "name": "Interrogatorio",
+      "pages": {
+        "Interrogation": {
+          "name": "Interrogatorio",
+          "text": "<p>Le Giubbe Blu prendono in custodia un PG per interrogarlo sui crimini della banda.Come sono riusciti a catturarti? Puoi corromperli con <strong>3 Denari</strong>, o ti menano (<strong>danno livello 2</strong>) e gli racconti cosa vogliono sapere (<strong>+3 Sospetto</strong>). Puoi resistere le conseguenze con due tiri separati.</p>\n<p><em>Alcuni giocatori non sopportano l’idea che il loro personaggio venga catturato! Di’ loro che è una cosa normale per una canaglia dei bassifondi. Passi tempo dentro e fuori di galera, interrogato e perseguitato dalla legge. Non è la fine del mondo. Ma adesso che sei qui nella sala per gli interrogatori, che tipo di persona sei? Parli? Ti ribelli? O patteggi</em></p>"
+        }
+      }
+    },
+    "Questioning": {
+      "name": "Fermo",
+      "pages": {
+        "Questioning": {
+          "name": "Fermo",
+          "text": "<p>Le Giubbe Blu prendono un PNG membro o contatto della banda, per interrogarlo sui crimini della vostra banda. Chi pensano possa essere più vulnerabile? Fate un tiro sorteper vedere quanto parlano (<strong>1-3: +2 Sospetto, 4/5: +1 Sospetto</strong>), o corrompete le Giubbe Blu con <strong>2 Denari</strong></p>\n<p><em>Per una persona normale tira 2d per vedere se riescono a tacere. Se sono tipi avvezzi dei bassifondi o in qualche modo tosti, tira 3d o 4d. Se sono deboli o sono leali alla legge, in qualche modo, tira 1d o 0d (tira 2d e prendi il risultato peggiore)</em></p>"
+        }
+      }
+    },
+    "Reprisals": {
+      "name": "Ritorsione",
+      "pages": {
+        "Reprisals": {
+          "name": "Ritorsione",
+          "text": "<p>Una fazione nemica si muove contro di voi (o un amico, contatto o fornitore di vizi). Pagateli (<strong>1 Rep</strong> o <strong>1 Denaro</strong>) per Rango del nemico come scuse, lasciate che se la prendano con voi o uno dei vostri, o reagite e fategli vedere chi che comanda.</p>"
+        }
+      }
+    },
+    "Rivals": {
+      "name": "Rivali",
+      "pages": {
+        "Rivals": {
+          "name": "Rivali",
+          "text": "<p>Una fazione neutra inizia a farsi spazio. Minacciano voi, un amico, un contatto o uno dei vostri fornitori di vizi. Concedete pagando una <strong>1 Rep</strong> o<strong> 1 Denaro</strong> per Rango del rivale, o reagite e perdete <strong>1 status</strong> con la fazione.</p>"
+        }
+      }
+    },
+    "Show of Force": {
+      "name": "Dimostrazione di forza",
+      "pages": {
+        "Show of Force": {
+          "name": "Dimostrazione di forza",
+          "text": "<p>Una fazione con la quale avete uno status negativo minaccia una vostra proprietà. Dategli <strong>1 rivendicazione</strong> o date inizio a una guerra (portate lo <strong>status a -3</strong>). Se non avete rivendicazioni, invece, <strong>perdete 1 dominio</strong></p>"
+        }
+      }
+    },
+    "The Usual Suspects": {
+      "name": "I soliti sospetti",
+      "pages": {
+        "The Usual Suspects": {
+          "name": "I soliti sospetti",
+          "text": "<p>Le Giubbe Blu catturano qualcuno che bazzica intorno alla tua banda. Un giocatore offre volontariamente un amico o un fornitore di vizi come la persona che ha più probabilità di essere presa. Fate un tiro sorte per vedere se resiste all’interrogatorio (<strong>1-3: +2 Sospetto, 4/5 : danno livello 2</strong>). In alternativa corrompete le Giubbe Blu con <strong>1 Denaro</strong>.</p>"
+        }
+      }
+    },
+    "Unquiet Dead": {
+      "name": "Morti irrequieti",
+      "pages": {
+        "Unquiet Dead": {
+          "name": "Morti irrequieti",
+          "text": "<p>Attirate uno spirito vendicativo, forse una vostra vittima? Ottenete i servizi di un Sussurro o Guardarotaie per provare a distruggerlo o bandirlo, o occupatevene voi stessi.</p>\n<p><em>Potete reclutare un PNG usando l’attività di downtime acquisire una risorsa (vedi pagina 155). Tirate il livello di qualità del PNG come tiro sorte per vedere come se la cava con lo spirito.</em></p>"
+        }
+      }
+    }
+  }
+}

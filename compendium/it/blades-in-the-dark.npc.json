@@ -1,0 +1,844 @@
+{
+  "label": "PNG",
+  "mapping": {
+    "description": "system.description",
+    "associatedClass": "system.associated_class",
+    "shortDescription": "system.description_short",
+    "associatedCrewType": "system.associated_crew_type"
+  },
+  "entries": {
+    "Adelaide Phroaig": {
+      "name": "Adelaide Phroaig",
+      "tokenName": "Adelaide Phroaig",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "una nobile",
+      "associatedCrewType": "Ombre"
+    },
+    "Adikin": {
+      "name": "Adikin",
+      "tokenName": "Adikin",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "un’occultista",
+      "associatedCrewType": "Cultisti"
+    },
+    "Alon Helker": {
+      "name": "Alon Helker",
+      "tokenName": "Alon Helker",
+      "description": "Un ispettrice. Cerca di stradicare la corruzione",
+      "associatedClass": "",
+      "shortDescription": "Un ispettrice",
+      "associatedCrewType": ""
+    },
+    "Amancio": {
+      "name": "Amancio",
+      "tokenName": "Amancio",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "un mediatore",
+      "associatedCrewType": "Ombre"
+    },
+    "Andris": {
+      "name": "Andris",
+      "tokenName": "Andris",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Una spia e un informatore",
+      "associatedCrewType": ""
+    },
+    "Anya": {
+      "name": "Anya",
+      "tokenName": "Anya",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "una dilettante",
+      "associatedCrewType": "Avvoltoi"
+    },
+    "Augus": {
+      "name": "Augus",
+      "tokenName": "Augus",
+      "description": "",
+      "associatedClass": "Ragno",
+      "shortDescription": "un maestro architetto",
+      "associatedCrewType": ""
+    },
+    "Bazso Baz": {
+      "name": "Bazso Baz",
+      "tokenName": "Bazso Baz",
+      "description": "",
+      "associatedClass": "Guanto",
+      "shortDescription": "un capo banda",
+      "associatedCrewType": ""
+    },
+    "Belindra": {
+      "name": "Belindra",
+      "tokenName": "Belindra",
+      "description": "Una carceriera nella prigione di Ironhook Prison",
+      "associatedClass": "",
+      "shortDescription": "Una carceriera",
+      "associatedCrewType": ""
+    },
+    "Bennett": {
+      "name": "Bennett",
+      "tokenName": "Bennett",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un astronomo",
+      "associatedCrewType": "Cultisti"
+    },
+    "Bryl": {
+      "name": "Bryl",
+      "tokenName": "Bryl",
+      "description": "",
+      "associatedClass": "Guanto",
+      "shortDescription": "uno spacciatore",
+      "associatedCrewType": ""
+    },
+    "Brynna Skyrkallan": {
+      "name": "Brynna Skyrkallan",
+      "tokenName": "Brynna Skyrkallan",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "una diplomatica",
+      "associatedCrewType": ""
+    },
+    "Casslyn Mora": {
+      "name": "Casslyn Mora",
+      "tokenName": "Casslyn Mora",
+      "description": "Un giudice con legami familiari con criminali",
+      "associatedClass": "",
+      "shortDescription": "Un giudice",
+      "associatedCrewType": ""
+    },
+    "Casta": {
+      "name": "Casta",
+      "tokenName": "Casta",
+      "description": "",
+      "associatedClass": "Segugio",
+      "shortDescription": "una cacciatrice di taglie",
+      "associatedCrewType": ""
+    },
+    "Celene": {
+      "name": "Celene",
+      "tokenName": "Celene",
+      "description": "",
+      "associatedClass": "Segugio",
+      "shortDescription": "una sentinella",
+      "associatedCrewType": ""
+    },
+    "Chael": {
+      "name": "Chael",
+      "tokenName": "Chael",
+      "description": "",
+      "associatedClass": "Tagliagole",
+      "shortDescription": "un feroce farabutto",
+      "associatedCrewType": ""
+    },
+    "Cinda": {
+      "name": "Cinda",
+      "tokenName": "Cinda",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Una giubba blu",
+      "associatedCrewType": ""
+    },
+    "Conway": {
+      "name": "Conway",
+      "tokenName": "Conway",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Una giubba blu",
+      "associatedCrewType": "Bravi"
+    },
+    "Darmot": {
+      "name": "Darmot",
+      "tokenName": "Darmot",
+      "description": "",
+      "associatedClass": "Nebbia",
+      "shortDescription": "Una giubba blu",
+      "associatedCrewType": ""
+    },
+    "Decker": {
+      "name": "Decker",
+      "tokenName": "Decker",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "un anarchico",
+      "associatedCrewType": "Trafficanti"
+    },
+    "Denkirk Sol": {
+      "name": "Denkirk Sol",
+      "tokenName": "Denkirk Sol",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un avvocato difensore",
+      "associatedCrewType": ""
+    },
+    "Dowler": {
+      "name": "Dowler",
+      "tokenName": "Dowler",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un esploratore",
+      "associatedCrewType": "Ombre"
+    },
+    "Eckerd": {
+      "name": "Eckerd",
+      "tokenName": "Eckerd",
+      "description": "",
+      "associatedClass": "Sanguisuga",
+      "shortDescription": "un monatto",
+      "associatedCrewType": ""
+    },
+    "Edrik": {
+      "name": "Edrik",
+      "tokenName": "Edrik",
+      "description": "",
+      "associatedClass": "Vampiro",
+      "shortDescription": "un intermediario",
+      "associatedCrewType": ""
+    },
+    "Elstera Avrathi": {
+      "name": "Elstera Avrathi",
+      "tokenName": "Elstera Avrathi",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un diplomatico",
+      "associatedCrewType": ""
+    },
+    "Elynn": {
+      "name": "Elynn",
+      "tokenName": "Elynn",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "un portuale",
+      "associatedCrewType": "Trafficanti"
+    },
+    "Ereth Skane": {
+      "name": "Ereth Skane",
+      "tokenName": "Ereth Skane",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un avvocato difensore",
+      "associatedCrewType": ""
+    },
+    "Esme": {
+      "name": "Esme",
+      "tokenName": "Esme",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "la proprietaria di una taverna",
+      "associatedCrewType": "Trafficanti"
+    },
+    "Exeter": {
+      "name": "Exeter",
+      "tokenName": "Exeter",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "un Guardiano di Spiriti",
+      "associatedCrewType": "Assassini"
+    },
+    "Fitz": {
+      "name": "Fitz",
+      "tokenName": "Fitz",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "un collezionista",
+      "associatedCrewType": "Ombre"
+    },
+    "Flint": {
+      "name": "Flint",
+      "tokenName": "Flint",
+      "description": "",
+      "associatedClass": "Sussurro",
+      "shortDescription": "un trafficante di spiriti. ",
+      "associatedCrewType": ""
+    },
+    "Frake": {
+      "name": "Frake",
+      "tokenName": "Frake",
+      "description": "",
+      "associatedClass": "Nebbia",
+      "shortDescription": "un mastro di chiavi",
+      "associatedCrewType": ""
+    },
+    "Gagan": {
+      "name": "Gagan",
+      "tokenName": "Gagan",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "un accademico",
+      "associatedCrewType": "Cultisti"
+    },
+    "Grace": {
+      "name": "Grace",
+      "tokenName": "Grace",
+      "description": "",
+      "associatedClass": "Tagliagole",
+      "shortDescription": "un ricattatore",
+      "associatedCrewType": ""
+    },
+    "Grull": {
+      "name": "Grull",
+      "tokenName": "Grull",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "un teppista di medio livello",
+      "associatedCrewType": ""
+    },
+    "Harker": {
+      "name": "Harker",
+      "tokenName": "Harker",
+      "description": "",
+      "associatedClass": "Guanto",
+      "shortDescription": "un carcerato",
+      "associatedCrewType": ""
+    },
+    "Hoxan": {
+      "name": "Hoxan",
+      "tokenName": "Hoxan",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Uno spirito vendicativo",
+      "associatedCrewType": ""
+    },
+    "Hoxley": {
+      "name": "Hoxley",
+      "tokenName": "Hoxley",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "un trafficante",
+      "associatedCrewType": "Avvoltoi"
+    },
+    "Hutchins": {
+      "name": "Hutchins",
+      "tokenName": "Hutchins",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": " un antiquario",
+      "associatedCrewType": "Cultisti"
+    },
+    "Irimina": {
+      "name": "Irimina",
+      "tokenName": "Irimina",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": " una crudele nobile",
+      "associatedCrewType": "Assassini"
+    },
+    "Jennah": {
+      "name": "Jennah",
+      "tokenName": "Jennah",
+      "description": "",
+      "associatedClass": "Ragno",
+      "shortDescription": "una servitrice",
+      "associatedCrewType": ""
+    },
+    "Jeren": {
+      "name": "Jeren",
+      "tokenName": "Jeren",
+      "description": "",
+      "associatedClass": "Ragno",
+      "shortDescription": "un archivista delle Giubbe Blu",
+      "associatedCrewType": ""
+    },
+    "Jira": {
+      "name": "Jira",
+      "tokenName": "Jira",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un mercante",
+      "associatedCrewType": ""
+    },
+    "Jol": {
+      "name": "Jol",
+      "tokenName": "Jol",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "ana giubba blu",
+      "associatedCrewType": ""
+    },
+    "Jul": {
+      "name": "Jul",
+      "tokenName": "Jul",
+      "description": "",
+      "associatedClass": "Sanguisuga",
+      "shortDescription": "uno spacciatore di sangue",
+      "associatedCrewType": ""
+    },
+    "Karlos": {
+      "name": "Karlos",
+      "tokenName": "Karlos",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "un cacciatore di taglie",
+      "associatedCrewType": "Assassini"
+    },
+    "Keller": {
+      "name": "Keller",
+      "tokenName": "Keller",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un fabbro",
+      "associatedCrewType": "Bravi"
+    },
+    "Kember": {
+      "name": "Kember",
+      "tokenName": "Kember",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "una distillatrice",
+      "associatedCrewType": ""
+    },
+    "Kira": {
+      "name": "Kira",
+      "tokenName": "Kira",
+      "description": "",
+      "associatedClass": "Vampiro",
+      "shortDescription": "una guardia del corpo",
+      "associatedCrewType": ""
+    },
+    "Klyra": {
+      "name": "Klyra",
+      "tokenName": "Klyra",
+      "description": "",
+      "associatedClass": "Guanto",
+      "shortDescription": "la proprietaria di una taverna",
+      "associatedCrewType": ""
+    },
+    "Krop": {
+      "name": "Krop",
+      "tokenName": "Krop",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "un poliziotto",
+      "associatedCrewType": ""
+    },
+    "Lady Drake": {
+      "name": "Lady Drake",
+      "tokenName": "Lady Drake",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un magistrato",
+      "associatedCrewType": ""
+    },
+    "Lannic": {
+      "name": "Lannic",
+      "tokenName": "Lannic",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un falsario d'arte",
+      "associatedCrewType": ""
+    },
+    "Laroze": {
+      "name": "Laroze",
+      "tokenName": "Laroze",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Una giubba blu",
+      "associatedCrewType": "Ombre"
+    },
+    "Levyra": {
+      "name": "Levyra",
+      "tokenName": "Levyra",
+      "description": "A spirit medium",
+      "associatedClass": "",
+      "shortDescription": "a spirit medium",
+      "associatedCrewType": ""
+    },
+    "Lewit": {
+      "name": "Lewit",
+      "tokenName": "Lewit",
+      "description": "Una giubba blu della guardia cittadina",
+      "associatedClass": "",
+      "shortDescription": "Una giubba blu",
+      "associatedCrewType": ""
+    },
+    "Lutes": {
+      "name": "Lutes",
+      "tokenName": "Lutes",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "un proprietario di taverna",
+      "associatedCrewType": "Bravi"
+    },
+    "Lydra": {
+      "name": "Lydra",
+      "tokenName": "Lydra",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "una mediatrice",
+      "associatedCrewType": "Avvoltoi"
+    },
+    "Lylandra": {
+      "name": "Lylandra",
+      "tokenName": "Lylandra",
+      "description": "",
+      "associatedClass": "Vampiro",
+      "shortDescription": "una associata",
+      "associatedCrewType": ""
+    },
+    "Lyssa": {
+      "name": "Lyssa",
+      "tokenName": "Lyssa",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un capobanda",
+      "associatedCrewType": ""
+    },
+    "Malista": {
+      "name": "Malista",
+      "tokenName": "Malista",
+      "description": "",
+      "associatedClass": "Sanguisuga",
+      "shortDescription": "una sacerdotessa",
+      "associatedCrewType": ""
+    },
+    "Marlane": {
+      "name": "Marlane",
+      "tokenName": "Marlane",
+      "description": "",
+      "associatedClass": "Tagliagole",
+      "shortDescription": "un Pugile",
+      "associatedCrewType": ""
+    },
+    "Marlo": {
+      "name": "Marlo",
+      "tokenName": "Marlo",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "boss di una gang",
+      "associatedCrewType": "Avvoltoi"
+    },
+    "Mateas Kline": {
+      "name": "Mateas Kline",
+      "tokenName": "Mateas Kline",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "un nobile",
+      "associatedCrewType": "Cultisti"
+    },
+    "Meg": {
+      "name": "Meg",
+      "tokenName": "Meg",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "una lottatrice",
+      "associatedCrewType": "Bravi"
+    },
+    "Melvir": {
+      "name": "Melvir",
+      "tokenName": "Melvir",
+      "description": "",
+      "associatedClass": "Segugio",
+      "shortDescription": "un cerusico",
+      "associatedCrewType": ""
+    },
+    "Mercy": {
+      "name": "Mercy",
+      "tokenName": "Mercy",
+      "description": "",
+      "associatedClass": "Tagliagole",
+      "shortDescription": "un assassino a sangue freddo",
+      "associatedCrewType": ""
+    },
+    "Merrul Brime": {
+      "name": "Merrul Brime",
+      "tokenName": "Merrul Brime",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un mercante di segreti",
+      "associatedCrewType": ""
+    },
+    "Mordis": {
+      "name": "Mordis",
+      "tokenName": "Mordis",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un mercante",
+      "associatedCrewType": ""
+    },
+    "Moriya": {
+      "name": "Moriya",
+      "tokenName": "Moriya",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "una trafficante di spiriti",
+      "associatedCrewType": "Cultisti"
+    },
+    "Mylera Klev": {
+      "name": "Mylera Klev",
+      "tokenName": "Mylera Klev",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un capobanda",
+      "associatedCrewType": ""
+    },
+    "Nyelle": {
+      "name": "Nyelle",
+      "tokenName": "Nyelle",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "una trafficante di spiriti",
+      "associatedCrewType": "Trafficanti"
+    },
+    "Nyryx": {
+      "name": "Nyryx",
+      "tokenName": "Nyryx",
+      "description": "Una buona fonte di bersagli oppure uno spirito che è fuggito dal tuo servizio?",
+      "associatedClass": "Sussurro",
+      "shortDescription": "uno spettro possessore",
+      "associatedCrewType": ""
+    },
+    "Otto": {
+      "name": "Otto",
+      "tokenName": "Otto",
+      "description": "",
+      "associatedClass": "Vampiro",
+      "shortDescription": "Un cocchiere",
+      "associatedCrewType": ""
+    },
+    "Petra": {
+      "name": "Petra",
+      "tokenName": "Petra",
+      "description": "",
+      "associatedClass": "Nebbia",
+      "shortDescription": "un’impiegata governativa",
+      "associatedCrewType": ""
+    },
+    "Polix": {
+      "name": "Polix",
+      "tokenName": "Polix",
+      "description": "Un funzionario del Lord Governatore di Doskvol. Uno spiritista segreto e raccoglitore di rune",
+      "associatedClass": "",
+      "shortDescription": "Un funzionario",
+      "associatedCrewType": ""
+    },
+    "Quellyn": {
+      "name": "Quellyn",
+      "tokenName": "Quellyn",
+      "description": "",
+      "associatedClass": "Sussurro",
+      "shortDescription": "Una strega",
+      "associatedCrewType": ""
+    },
+    "Raffello": {
+      "name": "Raffello",
+      "tokenName": "Raffello",
+      "description": "Un maestro pittore ossessionato dal sovrannaturale",
+      "associatedClass": "",
+      "shortDescription": "Un maestro pittore",
+      "associatedCrewType": ""
+    },
+    "Reyf": {
+      "name": "Reyf",
+      "tokenName": "Reyf",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Una giubba blu",
+      "associatedCrewType": ""
+    },
+    "Rigney": {
+      "name": "Rigney",
+      "tokenName": "Rigney",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "un proprietario di taverna",
+      "associatedCrewType": "Ombre"
+    },
+    "Riven": {
+      "name": "Riven",
+      "tokenName": "Riven",
+      "description": "",
+      "associatedClass": "Ragno",
+      "shortDescription": "un chimico",
+      "associatedCrewType": ""
+    },
+    "Rolan": {
+      "name": "Rolan",
+      "tokenName": "Rolan",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "uno spacciatore",
+      "associatedCrewType": "Trafficanti"
+    },
+    "Rolan Wott": {
+      "name": "Rolan Wott",
+      "tokenName": "Rolan Wott",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "un magistrato",
+      "associatedCrewType": "Avvoltoi"
+    },
+    "Roslyn Kellis": {
+      "name": "Roslyn Kellis",
+      "tokenName": "Roslyn Kellis",
+      "description": "",
+      "associatedClass": "Nebbia",
+      "shortDescription": "Una nobile",
+      "associatedCrewType": ""
+    },
+    "Rutherford": {
+      "name": "Rutherford",
+      "tokenName": "Rutherford",
+      "description": "",
+      "associatedClass": "Vampiro",
+      "shortDescription": "Un maggiordomo",
+      "associatedCrewType": ""
+    },
+    "Salia": {
+      "name": "Salia",
+      "tokenName": "Salia",
+      "description": "",
+      "associatedClass": "Ragno",
+      "shortDescription": "un intermediario di informazioni",
+      "associatedCrewType": ""
+    },
+    "Sawtooth": {
+      "name": "Sawtooth",
+      "tokenName": "Sawtooth",
+      "description": "",
+      "associatedClass": "Tagliagole",
+      "shortDescription": "un cerusico",
+      "associatedCrewType": ""
+    },
+    "Scurlock": {
+      "name": "Scurlock",
+      "tokenName": "Scurlock",
+      "description": "",
+      "associatedClass": "Sussurro",
+      "shortDescription": "Un vampiro",
+      "associatedCrewType": ""
+    },
+    "Sera": {
+      "name": "Sera",
+      "tokenName": "Sera",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "una trafficante di armi",
+      "associatedCrewType": "Trafficanti"
+    },
+    "Setarra": {
+      "name": "Setarra",
+      "tokenName": "Setarra",
+      "description": "",
+      "associatedClass": "Sussurro",
+      "shortDescription": "Un demone",
+      "associatedCrewType": ""
+    },
+    "Sevoy": {
+      "name": "Sevoy",
+      "tokenName": "Sevoy",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "un prestigioso mercante",
+      "associatedCrewType": "Assassini"
+    },
+    "Stazia": {
+      "name": "Stazia",
+      "tokenName": "Stazia",
+      "description": "",
+      "associatedClass": "Sanguisuga",
+      "shortDescription": "una farmacista",
+      "associatedCrewType": ""
+    },
+    "Steiner": {
+      "name": "Steiner",
+      "tokenName": "Steiner",
+      "description": "",
+      "associatedClass": "Segugio",
+      "shortDescription": "un assassino",
+      "associatedCrewType": ""
+    },
+    "Taffer": {
+      "name": "Taffer",
+      "tokenName": "Taffer",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un mercante",
+      "associatedCrewType": ""
+    },
+    "Telda": {
+      "name": "Telda",
+      "tokenName": "Telda",
+      "description": "",
+      "associatedClass": "Nebbia",
+      "shortDescription": "una mendicante",
+      "associatedCrewType": ""
+    },
+    "The Star": {
+      "name": "La Stella",
+      "tokenName": "La Stella",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Anonimo capitano degli Invisibili",
+      "associatedCrewType": ""
+    },
+    "The Tower": {
+      "name": "La Torre",
+      "tokenName": "La Torre",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "l’anonimo leader degli Invisibili",
+      "associatedCrewType": ""
+    },
+    "Thomas": {
+      "name": "Thomas",
+      "tokenName": "Thomas",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un cerusico",
+      "associatedCrewType": "Bravi"
+    },
+    "Trev": {
+      "name": "Trev",
+      "tokenName": "Trev",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un capobanda",
+      "associatedCrewType": "Assassini"
+    },
+    "Tyrsin Nol": {
+      "name": "TyrsinTyrsin Nol",
+      "tokenName": "Tyrsin Nol",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un diplomatico",
+      "associatedCrewType": ""
+    },
+    "Ulf Ironborn": {
+      "name": "Ulf Ironborn",
+      "tokenName": "Ulf Ironborn",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "Un brutale skovlanese",
+      "associatedCrewType": ""
+    },
+    "Veldren": {
+      "name": "Veldren",
+      "tokenName": "Veldren",
+      "description": "",
+      "associatedClass": "Sanguisuga",
+      "shortDescription": "Uno psiconauta",
+      "associatedCrewType": ""
+    },
+    "Veleris": {
+      "name": "Veleris",
+      "tokenName": "Veleris",
+      "description": "",
+      "associatedClass": "Segugio",
+      "shortDescription": "Una spia",
+      "shortDescription": "Una spia",
+      "associatedCrewType": ""
+    },
+    "Walker": {
+      "name": "Walker",
+      "tokenName": "Walker",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "un capo distretto",
+      "associatedCrewType": "Bravi"
+    }
+  }
+}

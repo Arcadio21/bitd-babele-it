@@ -1,0 +1,249 @@
+{
+  "label": "Abilità di banda",
+  "mapping": {
+    "description": "system.description",
+    "class": "system.class"
+  },
+  "entries": {
+    "(A) Crow's Veil": {
+      "name": "(AS) Velo del corvo",
+      "description": "Grazie a competenze acquisite a fatica con l’esperienza, o un rituale arcano, le vostre attività sono celate all’attenzione dei corvi beccamorte. Non accumulate più Sospetto quando l’omicidio è parte di un vostro colpo",
+      "class": "Assassini"
+    },
+    "(A) Deadly": {
+      "name": "(AS) Letale",
+      "description": "Ogni PG può aggiungere +1 al valore di azione di Cacciare, Schermire o Sgattaiolare (fino a un massimo di 3).",
+      "class": "Assassini"
+    },
+    "(A) Emberdeath": {
+      "name": "(AS) Incenerire",
+      "description": "Grazie a competenze acquisite a fatica con l’esperienza, o un rituale arcano, conoscete un modo per distruggere lo spirito di una vostra vittima nel momento in cui la uccidete. Il PG che lo fa segna 3 Stress per incanalare l’energia elettroplasmatica dal Campo Spettrale, necessaria a disintegrare lo spirito e il corpo in una pioggia di braci ardenti.",
+      "class": "Assassini"
+    },
+    "(A) No Traces": {
+      "name": "(AS) Senza Traccia",
+      "description": "Quando fate in modo di tener segreta un’operazione o la fate sembrare un incidente, ottenete metà del valore di Rep del bersaglio. Quando finite una fase di downtime con zero Sospetto, accumulate +1 Rep.",
+      "class": "Assassini"
+    },
+    "(A) Patron": {
+      "name": "(AS) Mecenate",
+      "description": "Quando avanzate di Rango pagate metà del Denaro che normalmente vi costerebbe.",
+      "class": "Assassini"
+    },
+    "(A) Predators": {
+      "name": "(AS) Predatori",
+      "description": "+1d al tiro di ingaggio quando per piani di tipo furtivo o inganno al fine di compiere un omicidio.",
+      "class": "Assassini"
+    },
+    "(A) Veteran": {
+      "name": "(AS) Veterano",
+      "description": "Scegliete un'abilità speciale di un'altra Banda (Può essere preso più volte).",
+      "class": "Assassini"
+    },
+    "(A) Vipers": {
+      "name": "(AS) Vipere",
+      "description": "Quando acquisite o create veleni, ottenete +1 livello di risultato del tiro (un 1-3 diventa un 4/5, ecc.). Quando impiegate un veleno, siete appositamente addestrati e pertanto immuni ai suoi effetti.",
+      "class": "Assassini"
+    },
+    "(Br) Blood Brothers": {
+      "name": "(B) Fratelli di Sangue",
+      "description": "Quando combattete a fianco delle vostre cricche in combattimento, ottengono +1d per i tiri di lavoro di squadra (manovre di impostazione e azioni di gruppo). Tutte le vostre cricche ottengono gratuitamente il tipo Teppista (se lo sono già, aggiungete un altro tipo).",
+      "class": "Bravi"
+    },
+    "(Br) Dangerous": {
+      "name": "(B) Pericolosi",
+      "description": "Ogni PG può aggiungere +1 al valore di azione di Cacciare, Distruggere o Schermire (fino a un massimo di 3).",
+      "class": "Bravi"
+    },
+    "(Br) Door Kickers": {
+      "name": "(B) Irruenti",
+      "description": "+1d al tiro di ingaggio in piani di tipo assalto.",
+      "class": "Bravi"
+    },
+    "(Br) Fiends": {
+      "name": "(B) Indemoniati",
+      "description": "La paura va bene tanto quanto il rispetto. Potete contare ogni livello di Ricercato come se fosse Territorio.",
+      "class": "Bravi"
+    },
+    "(Br) Forged In The Fire": {
+      "name": "(B) Forgiati nel Fuoco",
+      "description": "Ogni PG è stato indurito da esperienze cruente. Avete +1d a ogni tiro resistenza.",
+      "class": "Bravi"
+    },
+    "(Br) Patron": {
+      "name": "(B) Mecenate",
+      "description": "Quando avanzate di Rango pagate metà del Denaro che normalmente vi costerebbe.",
+      "class": "Bravi"
+    },
+    "(Br) Veteran": {
+      "name": "(B) Veterano",
+      "description": "Scegliete un'abilità speciale di un'altra Banda (Può essere preso più volte).",
+      "class": "Bravi"
+    },
+    "(Br) War Dogs": {
+      "name": "(B) Mastini da Guerra",
+      "description": "Quando siete in guerra (-3 status con una fazione), la vostra banda non subisce -1 dominio e i PG continuano a poter svolgere due attività nel downtime, anziché una sola.",
+      "class": "Bravi"
+    },
+    "(C) Anointed": {
+      "name": "(C) Unzione Sacra",
+      "description": "Ottenete +1d al tiro resistenza contro minacce soprannaturali. Inoltre ottenete +1d ai tiri guarigione per rimuovere danni soprannaturali.",
+      "class": "Cultisti"
+    },
+    "(C) Bound in Darkness": {
+      "name": "(C) Vincolati alle Tenebre",
+      "description": "Potete usare le manovre di squadra con qualsiasi membro del culto, indipendentemente dalla distanza che vi separa. Prendendo 1 Stress, il tuo messaggio sussurrato viene ascoltato da ogni cultista.",
+      "class": "Cultisti"
+    },
+    "(C) Chosen": {
+      "name": "(C) Prescelti",
+      "description": "Ogni PG può aggiungere +1 al valore di azione di Armonizzare, Manipolare o Studiare (fino a un massimo di 3).",
+      "class": "Cultisti"
+    },
+    "(C) Conviction": {
+      "name": "(C) Convinzione",
+      "description": "Ogni PG ottiene un vizio addizionale: Adorazione. Quando indulgete al vizio e portate a sacrificio qualcosa che soddisfi la divinità, il PG non eccede nel vizio. In aggiunta, la vostra divinità assisterà il PG in un qualsiasi tiro azione che farete, da ora fino a quando non indulgerete ancora al vizio.",
+      "class": "Cultisti"
+    },
+    "(C) Glory Incarnate": {
+      "name": "(C) Gloria Incarnata",
+      "description": "La vostra divinità a volte si manifesta nel mondo fisico. Questo può essere un grande vantaggio, ma le priorità e i valori di un dio non sono quelli dei mortali. Siete avvertiti.",
+      "class": "Cultisti"
+    },
+    "(C) Sealed in Blood": {
+      "name": "(C) Sigillato nel Sangue",
+      "description": "Ogni sacrificio umano riduce di -3 stress il costo di qualsiasi rituale officiate.",
+      "class": "Cultisti"
+    },
+    "(C) Veteran": {
+      "name": "(C) Veterano",
+      "description": "Scegliete un'abilità speciale di un'altra Banda (Può essere preso più volte).",
+      "class": "Cultisti"
+    },
+    "(C) Zealotry": {
+      "name": "(C) Fanatismo",
+      "description": "Le vostre cricche hanno perso la ragione in favore della dedizione al vostro culto. Accetteranno di compiere qualsiasi servizio, non importa quanto pericoloso o strano. Guadagnano +1d ai tiri quando agiscono contro i nemici della vostra fede.",
+      "class": "Cultisti"
+    },
+    "(H) Accord": {
+      "name": "(AV) Patto",
+      "description": "A volte gli amici valgono tanto quanto un terreno. Potete contare fino a tre fazioni con cui avete status +3 come fossero un Territorio.",
+      "class": "Avvoltoi"
+    },
+    "(H) Ghost Market": {
+      "name": "(AV) Mercato Fantasma",
+      "description": "Grazie a competenze acquisite a fatica con l’esperienza, o un rituale arcano, sapete come preparare il vostro prodotto per venderlo a fantasmi e/o demoni. Non pagano in denaro. Con cosa vi pagano?",
+      "class": "Avvoltoi"
+    },
+    "(H) High Society": {
+      "name": "(AV) Alta Società",
+      "description": "Tutto dipende da chi si conosce. Prendete -1 Sospetto durante il downtime e +1d per raccogliere informazioni riguardo all’ élite della città.",
+      "class": "Avvoltoi"
+    },
+    "(H) Hooked": {
+      "name": "(AV) Dipendenti",
+      "description": "I membri delle vostre cricche usano il vostro prodotto. Aggiungete il difetto Feroce, Inaffidabile, o Selvaggia alle vostre cricche per dargli +1 qualità (valore massimo di 4).",
+      "class": "Avvoltoi"
+    },
+    "(H) Patron": {
+      "name": "(AV) Mecenate",
+      "description": "Quando avanzate di Rango pagate metà del Denaro che normalmente vi costerebbe.",
+      "class": "Avvoltoi"
+    },
+    "(H) Silver Tongues": {
+      "name": "(AV) Parlantina",
+      "description": "Ogni PG può aggiungere +1 al valore di azione di Comandare, Manipolare o Socializzare (fino a un massimo di 3).",
+      "class": "Avvoltoi"
+    },
+    "(H) The Good Stuff": {
+      "name": "(AV) Roba Buona",
+      "description": "La vostra merce è eccezionale. La qualità del prodotto è equivalente a Rango +2. Quando avete a che fare con una banda o fazione, il GM vi dice chi tra di loro è dipendente dal vostro prodotto (uno, qualcuno, molti o tutti).",
+      "class": "Avvoltoi"
+    },
+    "(H) Veteran": {
+      "name": "(H) Veterano",
+      "description": "Scegliete un'abilità speciale di un'altra Banda (Può essere preso più volte).",
+      "class": "Avvoltoi"
+    },
+    "(Sh) Everyone Steals": {
+      "name": "(O) Tutti Rubano",
+      "description": "Ogni PG può aggiungere +1 al valore di azione di Armeggiare, Destreggiarsi o Sgattaiolare (fino a un massimo di 3).",
+      "class": "Ombre"
+    },
+    "(Sh) Ghost Echoes": {
+      "name": "(O) Echi Spettrali",
+      "description": "Grazie a strane esperienze o a rituali arcani, tutti i membri della banda ottengono l’abilità di vedere e interagire con le strutture, le strade e gli oggetti spettrali dell’eco di Doskvol che giace all’interno del campo spettrale.",
+      "class": "Ombre"
+    },
+    "(Sh) Pack Rats": {
+      "name": "(O) Accumulatori",
+      "description": "Il vostro covo è un guazzabuglio di oggetti rubati. Quando tirate per acquisire una risorsa, prendete +1d.",
+      "class": "Ombre"
+    },
+    "(Sh) Patron": {
+      "name": "(O) Mecenate",
+      "description": "Quando avanzate di Rango pagate metà del Denaro che normalmente vi costerebbe.",
+      "class": "Ombre"
+    },
+    "(Sh) Second Story": {
+      "name": "(O) Piano Rialzato",
+      "description": "Quando mettete in atto un’infiltrazione clandestina, prendete +1d al tiro di ingaggio.",
+      "class": "Ombre"
+    },
+    "(Sh) Slippery": {
+      "name": "(O) Sfuggenti",
+      "description": "Quando fate il tiro per i coinvolgimenti, tirate due volte e tenete il risultato che preferite. Quando tirate per ridurre il Sospetto della banda,prendete +1d",
+      "class": "Ombre"
+    },
+    "(Sh) Synchronized": {
+      "name": "(O) Sincronizzati",
+      "description": "Quando fate un’azione di gruppo potete contare cumulativamente i 6 ottenuti da tiri di PG diversi e considerarlo un Successo Critico.",
+      "class": "Ombre"
+    },
+    "(Sh) Veteran": {
+      "name": "(O) Veterano",
+      "description": "Scegliete un'abilità speciale di un'altra Banda (Può essere preso più volte).",
+      "class": "Ombre"
+    },
+    "(Sm) All Hands": {
+      "name": "(T) Tutti all'Opera",
+      "description": "Durante il downtime una delle vostre cricche può compiere un’attività di downtime per la banda per acquisire una risorsa, ridurre il Sospetto o lavorare a un progetto a lungo termine.",
+      "class": "Trafficanti"
+    },
+    "(Sm) Ghost Passage": {
+      "name": "(T) Trasporto Spettrale",
+      "description": "Grazie a competenze acquisite a fatica con l’esperienza, o un rituale arcano, tutti i membri della banda sono immuni alla possessione da parte di uno spirito, ma possono decidere di trasportare un fantasma come passeggero nel loro corpo.",
+      "class": "Trafficanti"
+    },
+    "(Sm) Just Passing Through": {
+      "name": "(T) Solo di Passaggio",
+      "description": "Durante il downtime prendete -1 Sospetto. Quando il Sospetto è a 4 o meno, ottenete +1d nell’ingannare le persone quando cercate di spacciarvi per cittadini qualsiasi.",
+      "class": "Trafficanti"
+    },
+    "(Sm) Leverage": {
+      "name": "(T) Influenza",
+      "description": "La vostra banda fornisce beni illeciti alle altre fazioni. Il vostro successo è positivo per loro. Ogni volta che guadagnate Rep, segnate +1 Rep.",
+      "class": "Trafficanti"
+    },
+    "(Sm) Like Part of the Family": {
+      "name": "(T) Come Fosse Parte della Famiglia",
+      "description": "Create uno dei vostri veicoli come una cricca. La sua qualità è pari al vostro Rango +1.",
+      "class": "Trafficanti"
+    },
+    "(Sm) Reavers": {
+      "name": "(T) Mietitori",
+      "description": "Quando andate in battaglia a bordo di un veicolo, ottenete +1 efficacia a velocità e al del veicolo. Il vostro veicolo viene dotato di armatura.",
+      "class": "Trafficanti"
+    },
+    "(Sm) Renegades": {
+      "name": "(T) Rinnegati",
+      "description": "Ogni PG può aggiungere +1 al valore di azione di Destreggiarsi, Schermire o Sgattaiolare (fino a un massimo di 3).",
+      "class": "Trafficanti"
+    },
+    "(Sm) Veteran": {
+      "name": "(T) Veterano",
+      "description": "Scegliete un'abilità speciale di un'altra Banda (Può essere preso più volte).",
+      "class": "Trafficanti"
+    }
+  }
+}

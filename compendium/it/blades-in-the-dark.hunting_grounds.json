@@ -1,0 +1,124 @@
+{
+  "label": "Territori di caccia",
+  "mapping": {
+    "description": "system.description",
+    "class": "system.class"
+  },
+  "entries": {
+    "Accident": {
+      "name": "Incidente",
+      "description": "<p>un assassinio senza tracce di violenza</p>",
+      "class": "Assassini"
+    },
+    "Acquisition": {
+      "name": "Acquisizione",
+      "description": "<p>acquisire un artefatto arcano e armonizzarlo alla vostra divinità.</p>",
+      "class": "Cultisti"
+    },
+    "Arcane/Weird": {
+      "name": " Arcane/stranezze",
+      "description": "<p>essenze di spirito,Spettri, materiali per cultisti.</p>",
+      "class": "Trafficanti"
+    },
+    "Arms": {
+      "name": "Armi",
+      "description": "<p>equipaggiamento militare non commerciabile, artiglieria pesante, esplosivi</p>",
+      "class": "Trafficanti"
+    },
+    "Augury": {
+      "name": "Auspicio",
+      "description": "<p>: fare ciò che serve per attrarre l’attenzione e il consiglio della vostra divinità.</p>",
+      "class": "Cultisti"
+    },
+    "Battle": {
+      "name": "Battaglia",
+      "description": "<p>sconfiggere un nemico con forza soverchiante.</p>",
+      "class": "Bravi"
+    },
+    "Burglary": {
+      "name": "Furto con scasso",
+      "description": "<p>scassinare ed entrare a compiere il furto.</p>",
+      "class": "Ombre"
+    },
+    "Consecration": {
+      "name": "Consacrazione",
+      "description": "<p>consacrare un luogo alla vostra divinità</p>",
+      "class": "Cultisti"
+    },
+    "Contraband": {
+      "name": "Contrabbando",
+      "description": "<p>beni di lusso fortemente tassati, droghe, arte bandita, ecc</p>",
+      "class": "Trafficanti"
+    },
+    "Disappearance": {
+      "name": "Sparizione",
+      "description": "<p> la vittima svanisce senza lasciare traccia</p>",
+      "class": "Assassini"
+    },
+    "Espionage": {
+      "name": "Spionaggio",
+      "description": "<p>ottenere informazioni segrete in incognito o clandestinamente.</p>",
+      "class": "Ombre"
+    },
+    "Extortion": {
+      "name": "Estorsione",
+      "description": "<p>minacciare violenza salvo pagamento</p>",
+      "class": "Bravi"
+    },
+    "Murder": {
+      "name": "Omicidio",
+      "description": "<p>un evidente omicidio per inviare un messaggio</p>",
+      "class": "Assassini"
+    },
+    "Passengers": {
+      "name": "Passeggeri",
+      "description": "<p>persone o bestiame trasportati in segreto</p>",
+      "class": "Trafficanti"
+    },
+    "Ransom": {
+      "name": "Riscatto",
+      "description": "<p>un rapimento e una richiesta di pagamento per la restituzione.</p>",
+      "class": "Assassini"
+    },
+    "Robbery": {
+      "name": "Rapina",
+      "description": "<p> furto con minaccia o violenza.</p>",
+      "class": "Ombre"
+    },
+    "Sabotage": {
+      "name": "Sabotaggio",
+      "description": "<p> danneggiare un avversario distruggendogli qualcosa</p>",
+      "class": "Bravi"
+    },
+    "Sacrifice": {
+      "name": "Sacrificio",
+      "description": "<p>: distruggere una cosa buona o di valore in onore della vostra divinità.</p>",
+      "class": "Cultisti"
+    },
+    "Sale": {
+      "name": "Vendita",
+      "description": "<p>una transazione importante di un prodotto illecito con un acquirente speciale.</p>",
+      "class": "Avvoltoi"
+    },
+    "Show of Force": {
+      "name": "Dimostrazione di forza",
+      "description": "<p>fare di un nemico un esempio per mostrare dominio su un territorio.</p>",
+      "class": "Avvoltoi"
+    },
+    "Smash & Grab": {
+      "name": "Mordi e fuggi",
+      "description": "<p>una veloce e violenta rapina a mano armata</p>",
+      "class": "Bravi"
+    },
+    "Socialize": {
+      "name": "Socializzazione",
+      "description": "<p>migliorare le relazioni con i clienti o fornitori con un evento sociale.</p>",
+      "class": "Avvoltoi"
+    },
+    "Supply": {
+      "name": "Rifornimento",
+      "description": "<p>na transazione per acquisire nuovo prodotto o stabilire i rapporti con un nuovo fornitore.</p>",
+      "class": "Avvoltoi"
+    }
+  }
+}

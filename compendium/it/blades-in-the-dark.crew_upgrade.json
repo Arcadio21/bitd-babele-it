@@ -1,0 +1,298 @@
+{
+  "label": "Potenziamenti di banda",
+  "mapping": {
+    "description": "system.description",
+    "class": "system.class"
+  },
+  "entries": {
+    "(A) Assassin Rigging": {
+      "name": "(AS) Attrezzatura da Assassini",
+      "description": "ogni PG ha 2 carichi gratuiti di armi o di attrezzi. Per esempio, puoi portare con te una pistola (arma) e degli attrezzi da scasso (attrezzi) con carico zero.",
+      "class": "Assassini"
+    },
+    "(A) Elite Skulks": {
+      "name": "(AS) Furtivi d’Élite",
+      "description": "tutte le vostre cricche di tipo Furtivi hanno +1d ai tiri di qualità per azioni coerenti con il loro tipo.",
+      "class": "Assassini"
+    },
+    "(A) Elite Thugs": {
+      "name": "(AS) Teppisti d’Élite",
+      "description": "tutte le vostre cricche di tipo Teppisti hanno +1d ai tiri di qualità per azioni coerenti con il loro tipo.",
+      "class": "Assassini"
+    },
+    "(A) Hardened": {
+      "name": "(AS) Incalliti",
+      "description": " ogni PG ottiene +1 casella Trauma. Per sbloccare Incalliti dovete spendere tre avanzamenti. Con questo potenziamento è possibile riportare in gioco un PG con 4 Trauma, se lo desiderate",
+      "class": "Assassini"
+    },
+    "(A) Ironhook Contacts": {
+      "name": "(AS) Contatti a Ironhook",
+      "description": "ogni PG ha +1 Rango effettivo mentre è in prigione. Questo bonus conta per qualsiasi elemento relativo al Rango in prigione, compreso il tiro incarcerazione ",
+      "class": "Assassini"
+    },
+    "(B) Bravos Rigging": {
+      "name": "(B) Attrezzatura da Bravi",
+      "description": "ogni PG ha 2 carichi gratuiti di armi o di armatura. Per esempio, potete portare una pistola (armi) e una spada (armi) o indossare un’armatura normale con carico zero",
+      "class": "Bravi"
+    },
+    "(B) Elite Rovers": {
+      "name": "(B) Vagabondi d’Élite",
+        "description": "tutte le vostre cricche di tipo Vagabondi hanno +1d ai tiri di qualità per azioni coerenti con il loro tipo.",
+      "class": "Bravi"
+    },
+    "(B) Elite Thugs": {
+      "name": "(B) Teppisti d’Élite",
+      "description": "tutte le vostre cricche di tipo Teppisti hanno +1d ai tiri di qualità per azioni coerenti con il loro tipo.",
+      "class": "Bravi"
+    },
+    "(B) Hardened": {
+      "name": "(B) Incalliti",
+		"description": " ogni PG ottiene +1 casella Trauma. Per sbloccare Incalliti dovete spendere tre avanzamenti. Con questo potenziamento è possibile riportare in gioco un PG con 4 Trauma, se lo desiderate",
+      "class": "Bravi"
+    },
+    "(B) Ironhook Contacts": {
+      "name": "(B) Contatti a Ironhook",
+      "description": "ogni PG ha +1 Rango effettivo mentre è in prigione. Questo bonus conta per qualsiasi elemento relativo al Rango in prigione, compreso il tiro incarcerazione ",
+      "class": "Bravi"
+    },
+    "(C) Cult Rigging": {
+      "name": "(C) Attrezzatura da Cultisti",
+      "description": "ogni PG ha 2 carichi gratuiti di documenti o reagenti arcani. Per esempio, potete portare un libro sacrilego di maledizioni (documenti) e una mano demoniaca (reagenti arcani) con carico zero",
+      "class": "Cultisti"
+    },
+    "(C) Elite Adepts": {
+      "name": "(C) Adepti d’Élite",
+      "description": "tutte le vostre cricche di tipo Adepti hanno +1d ai tiri di qualità per azioni coerenti con il loro tipo.",
+      "class": "Cultisti"
+    },
+    "(C) Elite Thugs": {
+      "name": "(C) Teppisti d’Élite",
+      "description": "tutte le vostre cricche di tipo Teppisti hanno +1d ai tiri di qualità per azioni coerenti con il loro tipo.",
+      "class": "Cultisti"
+    },
+    "(C) Ordained": {
+      "name": "(C) Consacrati",  
+		"description": "ogni PG ottiene +1 casella Trauma. Per sbloccare Incalliti dovete spendere tre avanzamenti. Con questo potenziamento è possibile riportare in gioco un PG con 4 Trauma, se lo desiderate",
+      "class": "Cultisti"
+    },
+    "(C) Ritual Sanctum in Lair": {
+      "name": "(C) Santuario per Rituali nel Covo",
+      "description": "questo conta come un laboratorio sacro e arcano per pratiche e rituali occulti",
+      "class": "Cultisti"
+    },
+    "(H) Composed": {
+      "name": "(AV) Composti",
+      "description": "ogni PG ottiene +1 casella stress. Per sbloccare Composti dovete spendere tre avanzamenti.",
+      "class": "Avvoltoi"
+    },
+    "(H) Elite Rooks": {
+      "name": "(AV) Malfattori d’Élite",
+      "description": "tutte le vostre cricche di tipo Malfattori hanno +1d ai tiri di qualità per azioni coerenti con il loro tipo.",
+      "class": "Avvoltoi"
+    },
+    "(H) Elite Thugs": {
+      "name": "(AV) Teppisti d’Élite",
+      "description": "tutte le vostre cricche di tipo Teppisti hanno +1d ai tiri di qualità per azioni coerenti con il loro tipo.",
+      "class": "Avvoltoi"
+    },
+    "(H) Hawker Rigging": {
+      "name": "(AV) Attrezzatura da Avvoltoi",
+      "description": "ogni PG ha uno degli oggetti dell’equipaggiamento nascosto, non conta come carico. Per esempio, potresti caricare una dose di droga o un’arma, perfettamente nascoste, con carico zero."
+    },
+    "(H) Ironhook Contacts": {
+      "name": "(AV) Contatti a Ironhook",
+      "description": "ogni PG ha +1 Rango effettivo mentre è in prigione. Questo bonus conta per qualsiasi elemento relativo al Rango in prigione, compreso il tiro incarcerazione ",
+      "class": "Avvoltoi"
+    },
+    "(Sh) Elite Rooks": {
+      "name": "(O) Malfattori d’Élite",
+      "description": "tutte le vostre cricche di tipo Malfattori hanno +1d ai tiri di qualità per azioni coerenti con il loro tipo.",
+      "class": "Ombre"
+    },
+    "(Sh) Elite Skulks": {
+      "name": "(O) Furtivi d’Élite",
+      "description": "tutte le vostre cricche di tipo Furtivi hanno +1d ai tiri di qualità per azioni coerenti con il loro tipo",
+      "class": "Ombre"
+    },
+    "(Sh) Steady": {
+      "name": "(O) Saldi",
+      "description": "ogni PG ottiene +1 casella stress. Per sbloccare Composti dovete spendere tre avanzamenti",
+      "class": "Ombre"
+    },
+    "(Sh) Thief Rigging": {
+      "name": "(O) Attrezzatura da Ombre",
+      "description": "ogni PG ha 2 carichi gratuiti di strumenti o di attrezzi. Per esempio: un PG può portare con sé attrezzi da scasso (attrezzi) e strumenti di precisione (strumenti) con carico zero",
+      "class": "Ombre"
+    },
+    "(Sh) Underground Maps and Passkeys": {
+      "name": "(O) Mappe dei Bassifondi e Passepartout",
+      "description": "vi muovete agilmente tra tutti i canali sotterranei, tunnel e scantinati della città.",
+      "class": "Ombre"
+    },
+    "(Sm) Barge": {
+      "name": "(T) Chiatta",
+      "description": "date mobilità al vostro covo. Potete spostarlo in un nuovo ambiente come attività di downtime",
+      "class": "Trafficanti"
+    },
+    "(Sm) Camouflage": {
+      "name": "(T) Mimetismo",
+      "description": "i vostri veicoli si camuffano perfettamente quando sono fermi. Passano completamente inosservati come parte dell’ambiente circostante o come insulsi veicoli civili (a vostra scelta).",
+      "class": "Trafficanti"
+    },
+    "(Sm) Elite Rovers": {
+      "name": "(T) Vagabondi d’Élite",
+        "description": "tutte le vostre cricche di tipo Vagabondi hanno +1d ai tiri di qualità per azioni coerenti con il loro tipo.",
+      "class": "Trafficanti"
+    },
+    "(Sm) Smuggler Rigging": {
+      "name": "(T) Attrezzatura da Trafficanti:",
+      "description": "due oggetti del vostro equipaggiamento sono perfettamente nascosti. Potreste portare un carico di contrabbando e una pistola, perfettamente nascoste, anche a una perquisizione.",
+      "class": "Trafficanti"
+    },
+    "(Sm) Steady": {
+      "name": "(T) Saldi",
+      "description": "ogni PG ottiene +1 casella stress. Per sbloccare Composti dovete spendere tre avanzamenti",
+      "class": "Trafficanti"
+    },
+    "(Sm) Vehicle 1": {
+      "name": "(T) Veicolo 1",
+      "description": "tutti i trafficanti iniziano con un veicolo.",
+      "class": "Trafficanti"
+    },
+    "(Sm) Vehicle 2": {
+      "name": "(T) Veicolo 2",
+      "description": "Il veicolo ottiene armatura.",
+      "class": "Trafficanti"
+    },
+    "Boat House 1": {
+      "name": "Casa sull’Acqua 1",
+      "description": "possedete una barca, un molo su un canale e una piccola baracca per riporre forniture nautiche.",
+      "class": ""
+    },
+    "Boat House 2": {
+      "name": "Casa sull’Acqua 2",
+      "description": "Migliora la barca, dotandola di armatura e maggiore capacità di carico",
+      "class": ""
+    },
+    "Carriage House 1": {
+      "name": "Rimessa 1",
+      "description": "possedete una carrozza e animali da traino, più una stalla. I cavalli a Doskvol sono molto rari: la maggior parte delle carrozze in città usa la capra Akorosiana come animale da tiro.",
+      "class": ""
+    },
+    "Carriage House 2": {
+      "name": "Rimessa 2",
+      "description": " migliora la carrozza dotandola di armatura e destrieri più grandi e più rapidi.",
+      "class": ""
+    },
+    "Cohort 1": {
+      "name": "Cricca 1",
+      "description": "Una cricca è una gang o un esperto che lavora per la vostra banda. ",
+      "class": ""
+    },
+    "Cohort 2": {
+      "name": "Cricca 2",
+      "description": "Una cricca è una gang o un esperto che lavora per la vostra banda. ",
+      "class": ""
+    },
+    "Cohort 3": {
+      "name": "Cricca 3",
+      "description": "Una cricca è una gang o un esperto che lavora per la vostra banda. ",
+      "class": ""
+    },
+    "Cohort 4": {
+      "name": "Cricca 4",
+      "description": "Una cricca è una gang o un esperto che lavora per la vostra banda. ",
+      "class": ""
+    },
+    "Hidden Lair": {
+      "name": " Covo Segreto",
+      "description": "il vostro covo si trova in un luogo segreto ed è camuffato per essere nascosto alla vista. Se viene scoperto usate due attività di downtime e pagate Denaro pari al vostro Rango per ricollocarlo e nasconderlo nuovamente.",
+      "class": ""
+    },
+    "Mastery": {
+      "name": "Maestria",
+      "description": "avete accesso a un addestramento superiore. Potete portare i valori di azione dei vostri PG fino a 4 (fintanto che non sbloccate questo potenziamento, i valori di azione sono limitati a 3). Per sbloccare Maestria dovete spendere quattro caselle di potenziamento.",
+      "class": ""
+    },
+    "Quality: Arcane Implements": {
+      "name": " Qualità Incrementata: Reagenti Arcani",
+      "description": "ogni potenziamento qualità incrementata, migliora il livello di qualità di tutti gli oggetti di un PG appartenenti a una certa categoria, oltre al grado stabilito dal Rango della banda e da eventuali oggetti eccellenti.",
+      "class": ""
+    },
+    "Quality: Documents": {
+      "name": "Qualità Incrementata: Documenti",
+      "description": "ogni potenziamento qualità incrementata, migliora il livello di qualità di tutti gli oggetti di un PG appartenenti a una certa categoria, oltre al grado stabilito dal Rango della banda e da eventuali oggetti eccellenti.",
+      "class": ""
+    },
+    "Quality: Gear": {
+      "name": "Qualità Incrementata: Attrezzi",
+      "description": "ogni potenziamento qualità incrementata, migliora il livello di qualità di tutti gli oggetti di un PG appartenenti a una certa categoria, oltre al grado stabilito dal Rango della banda e da eventuali oggetti eccellenti. (da scasso o arrampicata)",
+      "class": ""
+    },
+    "Quality: Subterfuge Supplies": {
+      "name": "Qualità Incrementata: Materiali per il Sotterfugio",
+      "description": "ogni potenziamento qualità incrementata, migliora il livello di qualità di tutti gli oggetti di un PG appartenenti a una certa categoria, oltre al grado stabilito dal Rango della banda e da eventuali oggetti eccellenti. ",
+      "class": ""
+    },
+    "Quality: Tools": {
+      "name": "Qualità Incrementata: Strumenti",
+      "description": "ogni potenziamento qualità incrementata, migliora il livello di qualità di tutti gli oggetti di un PG appartenenti a una certa categoria, oltre al grado stabilito dal Rango della banda e da eventuali oggetti eccellenti. (da demolizione o di precisione)",
+      "class": ""
+    },
+    "Quality: Weapons": {
+      "name": "Qualità Incrementata: Armi",
+      "description": "ogni potenziamento qualità incrementata, migliora il livello di qualità di tutti gli oggetti di un PG appartenenti a una certa categoria, oltre al grado stabilito dal Rango della banda e da eventuali oggetti eccellenti.",
+      "class": ""
+    },
+    "Quarters": {
+      "name": "Alloggi",
+      "description": "il vostro covo comprende alloggi per la banda. Senza questo potenziamento ogni PG dorme altrove ed è vulnerabile quando lo fa.",
+      "class": ""
+    },
+    "Secure Lair 1": {
+      "name": "Covo Sicuro 1",
+      "description": "il vostro covo ha serrature, allarmi e trappole per ostacolare gli intrusi.  Potreste dover eseguire un tiro con il Rango della banda se queste misure di sicurezza dovessero essere messe alla prova per capire quanto bene ostacolano un intruso.",
+      "class": ""
+    },
+    "Secure Lair 2": {
+      "name": "Covo Sicuro 2",
+      "description": "Migliora le difese, includendo misure arcane contro gli spiriti.  Potreste dover eseguire un tiro con il Rango della banda se queste misure di sicurezza dovessero essere messe alla prova per capire quanto bene ostacolano un intruso",
+      "class": ""
+    },
+    "Training: Insight": {
+      "name": "Allenamento: Intuizione",
+      "description": "Se avete un potenziamento di Allenamento, guadagnate 2 PE (anziché 1) quando, durante il downtime, allenate un determinato attributo.",
+      "class": ""
+    },
+    "Training: Personal Exp": {
+      "name": "Allenamento: Avanzamento libretto",
+      "description": "Se avete un potenziamento di Allenamento, guadagnate 2 PE (anziché 1) quando, durante il downtime, allenate un determinato attributo.",
+      "class": ""
+    },
+    "Training: Prowess": {
+      "name": "Allenamento: Prestanza",
+      "description": "Se avete un potenziamento di Allenamento, guadagnate 2 PE (anziché 1) quando, durante il downtime, allenate un determinato attributo.",
+      "class": ""
+    },
+    "Training: Resolve": {
+      "name": "Allenamento: Risolutezza",
+      "description": "Se avete un potenziamento di Allenamento, guadagnate 2 PE (anziché 1) quando, durante il downtime, allenate un determinato attributo.",
+      "class": ""
+    },
+    "Vault 1": {
+      "name": "Caveau 1",
+      "description": "il vostro covo ha un deposito sicuro con la capacità di 8 Denari (invece che 4).", 
+		"class": ""
+    },
+    "Vault 2": {
+      "name": "Caveau 2",
+      "description": "Aumenta la capacità a 16 Denari. Una parte separata del deposito può essere utilizzata come cella.",
+      "class": ""
+    },
+    "Workshop": {
+      "name": "Laboratorio",
+      "description": "il vostro covo ha un Laboratorio, approntato con attrezzi di riparazione e strumenti alchemici, oltre a una piccola biblioteca con libri, documenti e mappe. Potete realizzare progetti a lungo termine con queste risorse senza lasciare il vostro covo.",
+      "class": ""
+    }
+  }
+}

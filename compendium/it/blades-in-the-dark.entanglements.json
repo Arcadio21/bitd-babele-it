@@ -1,0 +1,17 @@
+{
+	"label": "Coinvolgimenti",
+	"entries": {
+		"Entanglements - Heat 0-3": {
+			"name": "Coinvolgimenti - Sospetto 0-3",
+			"description": "Se ci sono due risultati, il GM Sceglie quale utilizzare."
+		},
+		"Entanglements - Heat 4/5": {
+			"name": "Coinvolgimenti - Sospetto 4/5",
+			"description": "Se ci sono due risultati, il GM Sceglie quale utilizzare."
+		},
+		"Entanglements - Heat 6+": {
+			"name": "Coinvolgimenti - Sospetto 6+",
+			"description": "Se ci sono due risultati, il GM Sceglie quale utilizzare."
+		}
+	}
+}
