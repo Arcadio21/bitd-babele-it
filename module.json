@@ -8,7 +8,7 @@
 		"url": "Discord: Arcadio21"
     }
   ],
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -25,6 +25,14 @@
       }
     ]
   },
+  "languages" : [
+       {
+          "lang" : "it",
+          "name" : "Italian",
+          "path" : "it.json"
+       }
+              ],	
+	
   "url": "https://github.com/Arcadio21/bitd-babele-it",
   "manifest": "https://github.com/Arcadio21/bitd-babele-it/releases/latest/download/module.json",
   "download": "https://github.com/Arcadio21/bitd-babele-it/releases/latest/download/module.zip"	
